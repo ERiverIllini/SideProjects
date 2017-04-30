@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299433665303",
+    "firebase_url": "https://chess126-8ffbb.firebaseio.com",
+    "project_id": "chess126-8ffbb",
+    "storage_bucket": "chess126-8ffbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299433665303:android:84ec37ba67631efb",
+        "android_client_info": {
+          "package_name": "com.ninja.emilior.password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299433665303-v69ggfmmt7isvq295o7nuur25ub20l7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ninja.emilior.password",
+            "certificate_hash": "1265a7bc2fed66e26f60195a5bf712fb9807484d"
+          }
+        },
+        {
+          "client_id": "299433665303-t99e9khpgdiq9te08g9d5ij0ljq1gi5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCON0_KXngDUM_A3WSXCCfEL1Cn821d2aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299433665303-t99e9khpgdiq9te08g9d5ij0ljq1gi5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

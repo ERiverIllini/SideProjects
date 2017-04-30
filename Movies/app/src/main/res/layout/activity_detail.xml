@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ninja.emilior.movies.DetailActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/detailTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Movie Title Here"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.042"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.006"
+            app:layout_constraintRight_toLeftOf="@+id/detailRatingBar" />
+
+        <TextView
+            android:id="@+id/detailRelease"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Release Date"
+            app:layout_constraintHorizontal_bias="0.025"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/detailTitle" />
+
+        <ImageView
+            android:id="@+id/detailImage"
+            tools:layout_width="200dp"
+            tools:layout_height="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.041"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintVertical_bias="0.208"
+            app:srcCompat="@mipmap/ic_launcher"
+            app:layout_constraintTop_toBottomOf="@+id/detailRelease" />
+
+        <TextView
+            android:id="@+id/detailSummary"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="12dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus ornare enim et condimentum. Suspendisse augue nisi, accumsan sit amet euismod eu, dictum varius quam. Mauris quis purus id dolor tempus auctor ut vel neque. Duis ornare aliquet risus, eget tristique leo eleifend quis. Sed sed pellentesque arcu. Duis imperdiet euismod finibus. Nulla eleifend varius vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Phasellus convallis consectetur iaculis. Donec eget nisl suscipit, auctor leo sit amet, pellentesque libero. In volutpat nulla a ligula maximus condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc sed pretium arcu. Quisque odio est, ultrices a porttitor quis, ultricies auctor justo. Proin elementum metus suscipit sollicitudin pellentesque.  In accumsan placerat scelerisque. Mauris id luctus mauris, sed consequat sem. Nunc ullamcorper nunc vitae magna tempus vulputate eu nec erat. Cras quam leo, sollicitudin eu condimentum eu, imperdiet at quam. Pellentesque ut semper nisi. Phasellus elementum consectetur risus, vitae placerat enim dictum eget. Nulla facilisi. Maecenas efficitur, tellus nec volutpat efficitur, sem odio vestibulum quam, eu maximus felis nisl in massa. Suspendisse tempus tincidunt condimentum. Nam at est mauris. Nunc commodo lorem turpis, sed pulvinar purus porttitor sit amet. Sed quis mauris justo. Nam in laoreet dolor. Nullam ullamcorper ipsum a condimentum ornare. Vestibulum volutpat ante non consequat laoreet."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/detailImage"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <RatingBar
+            android:id="@+id/detailRatingBar"
+            style="@style/Widget.AppCompat.RatingBar"
+            android:isIndicator="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:rating="5"
+            android:stepSize="0.1"
+            app:layout_constraintBottom_toTopOf="@+id/detailImage"
+            app:layout_constraintHorizontal_bias="0.416"
+            app:layout_constraintLeft_toRightOf="@+id/detailRelease"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/detailTitle"
+            app:layout_constraintVertical_bias="0.0" />
+
+            />
+    </android.support.constraint.ConstraintLayout>
+
+
+</ScrollView>

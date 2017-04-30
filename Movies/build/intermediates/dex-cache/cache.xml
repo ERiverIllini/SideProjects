@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/232931eeff3501687bc03de10204ea4d68cd5de5/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5c5c79db8047a5b5d3507dcc355adfaa814f150d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/fae75c5c5bcf9dd4c5f531a906194f0c3eab767e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2787686f6713ebc3c98ccdc17a23a0d9a227e508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/0db04f090b296fae0619e621e947fd41939e9698/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8eb381405e0470547f9bdad80758846668560e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/232931eeff3501687bc03de10204ea4d68cd5de5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a0149d13b24292eebb8511cb40c4d9ea46dc5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_003fceab41e02a3277b9cf13ec4194017ee5d11c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/7c375559f335a41a5ba615428bc881e61b50603a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b2f43b53947ff4a63114a8046edded2d5164d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/b8373d5d3cb9f9c740829e1e0ee1a44afcfe9231/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8cb3170b0b63025f227ab35dd40050351bf979b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/5a7a3bd86b15c968cbfa439798716e33b0ed5ba6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98b26c3688c289d2cd1981ef75fb1532f40cb4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/207ed366b5abdb129c3ae11c1647a664f3069d1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ba836c454107e42f226324efff941457b55bd14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e1bc3ab2f374339a2a9f8c2d90158ce43fb04cd">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0b9a6f79b767133caa9d26934e7163ba379cb544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/fae75c5c5bcf9dd4c5f531a906194f0c3eab767e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc9c8b60029b8a83f2f5e7929d89c658ee2df3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_6cf672482f9711d08a1ec8a8e5b71f2837ad157e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/ab666ffe4a5c27990eed6754dd198113c0f51704/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ed511d3e8aa2d27235f4f94063ab11378deba4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/0db04f090b296fae0619e621e947fd41939e9698/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_00422ceffa8500c9bddf682ce94be59425435aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/b44c9c597ad1a58aaa15c5bb30875b684ce2f332/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77b0ecac269e5f4f54d974312232823949d30300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/.android/build-cache/9b0591eb27ff65ac27a9f11a2760d0813d2a2976/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca4043c022745c8adb64a35cb57807627c923fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7af266d640875ae6a927c1ea63e2ec62a226fe51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/emilio/Desktop/CS126/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99f3731069704b84409b45f8babd1f1ac3b84e00/classes.dex" />
+    </item>
+
+</items>
